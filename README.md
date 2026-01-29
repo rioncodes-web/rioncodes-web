@@ -6,7 +6,7 @@ color:white;
 padding:30px;
 border-radius:12px;
 ">
-Munna Scriptz
+Rion Kha Codes
 </h1>
 </div>
 <h3 align="center">“I code the front, power the back — full-stack style.”s</h3>
@@ -26,8 +26,8 @@ Munna Scriptz
 ![Tailwind](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rioncodes-web&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=rioncodes-web&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rioncodes-web&layout=compact&theme=radical)
