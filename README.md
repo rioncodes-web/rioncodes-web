@@ -6,7 +6,7 @@ color:white;
 padding:30px;
 border-radius:12px;
 ">
-Rion Kha Codes
+Rion Khan Codes
 </h1>
 </div>
 <h3 align="center">“I code the front, power the back — full-stack style.”s</h3>
